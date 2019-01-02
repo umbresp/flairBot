@@ -1,6 +1,8 @@
-# flairBot
+# flairBot 3
 
 A reddit bot created to help moderate subreddits, incorporating auto-flairing, commenting, and required approvals.
+
+This version of the bot is compatible with Python 3.
 
 ## Features
 
@@ -20,7 +22,7 @@ There is currently a short FAQ hosted [here](https://www.reddit.com/r/1442dump/w
 
 Alright! Now that the bot is universalized, we can get the show on the road!
 
-1. Clone the repo. Simply type `git clone https://github.com/jackson1442/redditBot` where you want this directory.
+1. Clone the repo. Simply type `git clone https://github.com/umbresp/redditBot` where you want this directory.
 
 2. Open `config.py`. Fill in all of the responses. Enter `\n` for any text, comment, etc that you do not wish to enable. **Do not leave fields blank!**
 
